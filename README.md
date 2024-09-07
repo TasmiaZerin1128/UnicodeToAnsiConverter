@@ -4,3 +4,5 @@ Please feel free to contribute to the converter if you'd like more improvement.
 
 ## How to Use
 Import the class in your file, call the UnicodeToAnsi() function. And, conversion done!
+
+### Feel free to provide any feedback or suggestion! :smile:
